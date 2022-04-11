@@ -20,7 +20,7 @@
         }
 
         // Set the recipient email address.
-        $recipient = "info@example.com";
+        $recipient = "intrinsicmarketinginfo@gmail.com";
 
         // Set the email sub.
         $sub = "Mail contact from $name";
